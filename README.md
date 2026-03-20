@@ -31,7 +31,7 @@
 - [Résultats clés](#-résultats-clés)
 - [Les 5 recommandations](#-les-5-recommandations-stratégiques)
 - [Stack technique](#-stack-technique)
-- DAVID SOUWAN (#-auteur)
+-  [Auteur](#-auteur)
 
 
 ## 🌍 Contexte business
