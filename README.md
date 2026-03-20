@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/pandas-2.0-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/matplotlib-seaborn-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Status-Portfolio--Ready-2a5c45?style=flat-square"/>
-<img src="https://img.shields.io/badge/IA-Claude%20%7C%20ChatGPT%20%7C%20DeepSeek-c9963a?style=flat-square"/>
 
 <br/><br/>
 
