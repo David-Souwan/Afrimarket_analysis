@@ -80,39 +80,6 @@ afrimarket-analysis/
 ├── 📄 README.md                              ← Ce fichier
 └── 📄 rapport.html                       ← Dépendances Python
 
-## ⚙️ Installation & utilisation
-
-### Prérequis
-
-Python 3.10+
-pip
-### Installation
-# 1. Cloner le dépôt
-git clone https://github.com/votre-username/afrimarket-analysis.git
-cd afrimarket-analysis
-
-# 2. Installer les dépendances
-pip install -r requirements.txt
-
-# 3. Placer le fichier de données
-cp afrimarket_dataset_senior.csv data/
-
-# 4. Lancer Jupyter
-jupyter notebook AfriMarket_Analyse_Strategique.ipynb
-### requirements.txt
-
-pandas>=2.0.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-jupyter>=1.0.0
-### Exécution complète
-
-# Dans VS Code avec l'extension Jupyter :
-# Ouvrir le .ipynb → Run All (Ctrl+Shift+Enter)
-# Les 6 visualisations se sauvegardent automatiquement dans outputs/
----
-
 ## 🔬 Méthodologie complète
 
 ### Phase 1 — Audit des données
