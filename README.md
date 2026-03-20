@@ -203,15 +203,22 @@ Après nettoyage : 9 400 lignes  (93% des données conservées)
   Nouveau (1 cmd)  │   454    │    260 USD  │   4,6%  │
 
   Un client Fidèle vaut 12,7x un client Nouveau.
+
+  
 ### Évolution mensuelle
 
 Juil  │████████████████████░░  401k  (base)
+
 Août  │██████████████████████░  437k  +8,8%  ↑
+
 Sept  │████████████████████░░░  404k  -6,6%  ↓
+
 Oct   │█████████████████████░░  435k  +6,6%  ↑
+
 Nov   │████████████████████░░░  401k  -7,9%  ↓
+
 Déc   │████████████████████████ 472k  +17,8% ↑  ← Pic saisonnier
----
+
 
 ## 🎯 Les 5 recommandations stratégiques
 
